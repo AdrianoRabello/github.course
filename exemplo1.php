@@ -4,4 +4,6 @@
 
 	$teste2 = 1 ; 
 
+	$t = "caracaticaticatica";
+
  ?>
